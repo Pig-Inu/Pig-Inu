@@ -3,7 +3,7 @@ cover: ../.gitbook/assets/capa git.jpeg
 coverY: 0
 ---
 
-# Swap Pig Inu
+# 🐽 Swap PIGINU
 
 Pig Inu Swap is the official decentralized exchange (DEX) of our community. It gives holders the ability to swap independently among each other any BEP20 token for another one.
 

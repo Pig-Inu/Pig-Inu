@@ -3,5 +3,5 @@ cover: ../.gitbook/assets/capa git.jpeg
 coverY: 0
 ---
 
-# 🐽 Staking PIGINU
+# 🐽 NFT PIGINU
 
