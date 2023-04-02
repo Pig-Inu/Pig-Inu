@@ -30,4 +30,4 @@ coverY: 0
 
 **Soft Cap:**&#x20;
 
-<figure><img src="../.gitbook/assets/as.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/as (1).png" alt=""><figcaption></figcaption></figure>
