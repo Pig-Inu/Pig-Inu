@@ -8,7 +8,7 @@
 * [🐽 Tokenomics](overview/tokenomics.md)
 * [🐽 Roadmap](overview/roadmap.md)
 * [🐽 Security](overview/security.md)
-* [Page 1](overview/page-1.md)
+* [How to buy PIGINU?](overview/how-to-buy-piginu.md)
 
 ## Features
 

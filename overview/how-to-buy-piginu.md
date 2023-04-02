@@ -1,4 +1,4 @@
-# Page 1
+# How to buy PIGINU?
 
 <img src="https://catecoin.club/assets/img/metamask.svg" alt="" data-size="line"> **1. Step: Install Metamask for Chrome**
 
