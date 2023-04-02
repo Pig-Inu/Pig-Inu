@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/capa git.jpeg
-coverY: 243
+cover: ../.gitbook/assets/photo_2023-04-02 20.21.04.jpeg
+coverY: 0
 ---
 
 # 🐽 Social Media
