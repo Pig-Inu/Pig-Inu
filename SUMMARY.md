@@ -8,7 +8,7 @@
 * [🐽 Tokenomics](overview/tokenomics.md)
 * [🐽 Roadmap](overview/roadmap.md)
 * [🐽 Security](overview/security.md)
-* [How to buy PIGINU?](overview/how-to-buy-piginu.md)
+* [🐽 How to buy PIGINU?](overview/how-to-buy-piginu.md)
 
 ## Features
 
@@ -16,3 +16,8 @@
 * [🐽 Big Pot PIGINU](features/big-pot-pig-inu.md)
 * [🐽 Staking PIGINU](features/page-1.md)
 * [🐽 NFT PIGINU](features/nft-piginu.md)
+
+***
+
+* [🐷 Contract Official](https://www.pinksale.finance/)
+* [🐷 Presale - Pinksale](https://www.pinksale.finance/)

@@ -1,4 +1,9 @@
-# How to buy PIGINU?
+---
+cover: ../.gitbook/assets/capa git.jpeg
+coverY: 0
+---
+
+# 🐽 How to buy PIGINU?
 
 <img src="https://catecoin.club/assets/img/metamask.svg" alt="" data-size="line"> **1. Step: Install Metamask for Chrome**
 
