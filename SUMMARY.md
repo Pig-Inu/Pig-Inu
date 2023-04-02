@@ -5,7 +5,7 @@
 ## Overview
 
 * [🐽 Social Media](overview/social-media.md)
-* [Tokenomics](overview/tokenomics.md)
+* [🐽 Tokenomics](overview/tokenomics.md)
 * [Roadmap](overview/roadmap.md)
 * [Security](overview/security.md)
 
