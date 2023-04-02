@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Pig Inu](README.md)
+* [🐷 Pig Inu](README.md)
 
 ## Overview
 
-* [Social Media](overview/social-media.md)
+* [🐽 Social Media](overview/social-media.md)
 * [Tokenomics](overview/tokenomics.md)
 * [Roadmap](overview/roadmap.md)
 * [Security](overview/security.md)
