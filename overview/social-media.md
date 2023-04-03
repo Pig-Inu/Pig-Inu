@@ -11,35 +11,35 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/telegram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram.png" alt=""><figcaption><p><a href="https://t.me/RealPigInu">CLICK HERE</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/telegram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram.png" alt=""><figcaption><p><a href="https://t.me/RealPigInu_ANN">CLICK HERE</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/telegram.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/telegram.png" alt=""><figcaption><p><a href="https://t.me/RealPigInu_CN">CLICK HERE </a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/discordia.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/discordia.png" alt=""><figcaption><p><a href="https://discord.gg/kzZB7h8mMz">CLICK HERE</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/medium.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/medium.png" alt=""><figcaption><p><a href="https://medium.com/@piginu">CLICK HERE</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/reddit.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/reddit.png" alt=""><figcaption><p><a href="https://www.reddit.com/user/Piginu">CLICK HERE</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/twitter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/twitter.png" alt=""><figcaption><p><a href="https://twitter.com/PigInu_">CLICK HERE</a></p></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/youtube.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/youtube.png" alt=""><figcaption><p>CLICK HERE</p></figcaption></figure>
 
 </div>
 
