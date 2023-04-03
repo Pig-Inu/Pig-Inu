@@ -5,7 +5,7 @@ coverY: 0
 
 # 🐽 Security
 
-## Audit - Coming Soon...
+{% embed url="https://github.com/Coinsult/solidity/blob/main/Coinsult_Piginu_0x92...24d7_Audit.pdf" %}
 
 🐷 The audit seal is an important measure of transparency and reliability for us at PIG INU. It indicates that our project has undergone an independent audit, carried out by a specialized company in system security, finance and technology, which evaluated the finances and operations of the company, verifying compliance with established regulations and standards.
 

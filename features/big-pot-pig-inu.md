@@ -8,7 +8,7 @@ coverY: 0
 \
 **BIG POT The top 30 buyers who buy PIGINU are in the BIG POT.**
 
-🐷 The top 30 will receive 15% of the BIG POT wallet! (Note: Divided 15% among the 30)The BIG POT wallet is a wallet that receives 1% marketing tax
+🐷 The top 30 will receive 15% of the BIG POT wallet! (Note: Divided 15% among the 30)The BIG POT wallet is a wallet that receives 2% marketing tax
 
 **BIG POT functionality**
 

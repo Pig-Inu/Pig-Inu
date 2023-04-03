@@ -9,25 +9,35 @@ coverY: 0
 
 **Project Name: Pig Inu**
 
-**Symbol: PigInu**
+**Symbol: PIGINU**
 
 **Blockchain:** **BEP20**
 
-* [x] **Presale:**&#x20;
-* [x] **Liquidity: 60%**
-* [x] **Marketing: 10% (Locked)**
-* [x] **Rewards: 30% (Locked)**
+* [x] **Presale: 39,6%**
+* [x] **Liquidity: 17,442%**
+* [x] **Marketing: 5%**&#x20;
+* [x] **Staking: 10%**
+* [x] **Rewards: 10%**
+* [x] **CEX Listing: 5%**
+* [x] **Burnt: 12.958%**
 
-**Presale Start Time:**&#x20;
+**Presale Start Time: 2023.04.05 14:00 (UTC)**
 
-**Presale End Time:**&#x20;
+**Presale End Time: 2023.04.06 14:00 (UTC)**
 
-**Listing On**: **PancakeSwap**
+**Listing On:** [**Pancakeswap**](https://pancakeswap.finance/swap?outputCurrency=0x9202De1818D6e366Fe09428244EF9D3152FB24d7)****
 
-**Tokens For Presale:**&#x20;
+**Tokens For Presale: 396,000,000 PIGINU**
 
-**Tokens For Liquidity:**
+**Tokens For Liquidity: 174,420,000 PIGINU**
 
-**Soft Cap:**&#x20;
+**Soft Cap: 90 BNB**
 
-<figure><img src="../.gitbook/assets/as (1).png" alt=""><figcaption></figcaption></figure>
+**HardCap: 180 BNB**
+
+**Unsold Tokens: Burn**
+
+* [x] **5% reflection**&#x20;
+* [x] **2% Big pot prize** &#x20;
+* [x] **2% Marketing**&#x20;
+* [x] **1% LP**
