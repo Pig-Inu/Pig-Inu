@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/photo_2023-04-02 20.21.04.jpeg
-coverY: 124.98675821481119
+cover: ../.gitbook/assets/photo_2023-04-03 10.08.55.jpeg
+coverY: 0
 ---
 
 # 🐽 NFT PIGINU
