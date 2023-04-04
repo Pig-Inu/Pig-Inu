@@ -35,10 +35,10 @@ coverY: 0
 
 <div>
 
-<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.55.25.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.55.16.png" alt=""><figcaption></figcaption></figure>
 
  
 
-<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.55.16.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.55.25.png" alt=""><figcaption></figcaption></figure>
 
 </div>

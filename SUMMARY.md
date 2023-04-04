@@ -20,6 +20,6 @@
 ***
 
 * [🐷 Contract Official](https://www.pinksale.finance/)
-* [🐷 Presale - Pinksale](https://www.pinksale.finance/)
+* [🐷 Presale - Pinksale](https://www.pinksale.finance/launchpad/0x61BdCa902a41Bc09Aee4E5c058c74C6F5b4a204B?chain=BSC)
 * [🐷 Opensea PIGINU](https://opensea.io/collection/piginusty)
 * [🐷 Stake](https://stake.pig-inu.com/)
