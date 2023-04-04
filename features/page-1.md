@@ -15,3 +15,30 @@ coverY: 0
 * [x] Network strengthening: staking helps keep the network secure and protected against malicious attacks, as coin holders participating in staking have a financial incentive to act honestly.
 * [x] Increased price stability: staking can help reduce the volatility of the PIGINU price, as coin holders participating in staking may be less likely to sell their coins in the short term.
 * [x] Incentives to hold coins instead of trading them: staking can provide coin holders with a financial incentive to hold their coins locked up instead of selling them in the short term, which can help reduce selling pressure on the PIGINU price.
+
+| PIG INU - Staking |  Amount |
+| ----------------- | :-----: |
+| Deposit Fees      |    3%   |
+| APY               |   500%  |
+| Daily yield       |    5%   |
+| Locked Days       | 15 days |
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.54.52.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.54.56.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.55.25.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../.gitbook/assets/Captura de Tela 2023-04-04 às 12.55.16.png" alt=""><figcaption></figcaption></figure>
+
+</div>
